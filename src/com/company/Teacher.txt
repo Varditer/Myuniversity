@@ -1,0 +1,6 @@
+name,surname,password,username,email
+vard , hdjndmx , vardndhd , hdjndmx , vard@gmail.com
+bvhdfjd , kihfrf , dfcgrc , kihfrf , frgrggf
+jnb , jbhnjm\ , jgbh , jbhnjm\ , gcvb
+bsvdhd , jdhsgsfdrsASD1234 , jdhsgsfdrsASD1234 , jdhsgsfdrsASD1234 , djfff
+hgbn , jdhsgsfdrsASD1234 , jdhsgsfdrsASD1234 , jdhsgsfdrsASD1234 , djnff
